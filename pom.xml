@@ -37,6 +37,7 @@
                 </executions>
                 <configuration>
                     <mainClass>${mainClass}</mainClass>
+                    <finalName>config-server</finalName>
                 </configuration>
             </plugin>
         </plugins>
